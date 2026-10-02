@@ -1,0 +1,19 @@
+pplugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.tedwa.handsensorlight'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.tedwa.handsensorlight'
+        minSdk 23
+        targetSdk 28
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+}Enter
